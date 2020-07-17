@@ -26,3 +26,16 @@ obj/Release/netcoreapp3.1/PacMan.AssemblyInfoInputs.cache
 obj/Release/netcoreapp3.1/PacMan.assets.cache
 *.json
 *.xml
+.DS_Store
+*.dll
+*.pdb
+obj/JogoPacMan.csproj.nuget.g.targets
+obj/JogoPacMan.csproj.nuget.g.props
+obj/JogoPacMan.csproj.nuget.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/JogoPacMan.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.assets.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/JogoPacMan.AssemblyInfo.cs
