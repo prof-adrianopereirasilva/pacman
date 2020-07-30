@@ -6,7 +6,7 @@ Este projeto foi desenvolvido juntos aos alunos do cursos de Jogos Digitais na d
 A figura a seguir exibe o jogo desenvolvido neste projeto.
 ![Imagem do jogo desenvolvido](imagens/pac-man-rodrigocezario.png?raw=true "Pac-man")
 
-Uma série de artigos forma escritos descrevendo os passos no desenvolvimento deste projeto. A primeira publicação pode ser acessada em [Desenvolvimento do jogo Pac-man: Uma estratégia para o ensino de estruturas de dados homogêneos — Primeira fase](https://bityli.com/IZhXR)
+Uma série de artigos foram escritos descrevendo os passos no desenvolvimento deste projeto. A primeira publicação pode ser acessada em [Desenvolvimento do jogo Pac-man: Uma estratégia para o ensino de estruturas de dados homogêneos — Primeira fase](https://bityli.com/IZhXR)
 
 ## Contribuições
 
